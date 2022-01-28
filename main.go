@@ -1,6 +1,6 @@
 package main
 
-import github.com/sunnivalien/myqoute/myqoute
+import "github.com/sunnivalien/myquote/myquote"
 
 func main() {
 	myquote.Glass()
